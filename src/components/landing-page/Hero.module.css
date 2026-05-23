@@ -1,0 +1,80 @@
+/* .heroSection {
+  position: relative;
+  min-height: 90vh;
+
+  background-image: url('../../../public/images/aikart.jpg') !important;
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: center;
+}
+
+.overlay{
+  position:absolute;
+  inset:0;
+  background:rgba(0,0,0,.45);
+}
+
+.heroContent{
+  position:relative;
+  z-index:2;
+
+  width:550px;
+  margin-left:80px;
+  padding:60px;
+  font-size: 3rem;;
+  backdrop-filter:blur(10px);
+  background:rgba(255,255,255,.12);
+  color: black;
+  border-left:4px solid #775a19;
+}
+
+.heroContent h1{
+  color:white;
+  font-size:70px;
+  line-height:1.1;
+  margin-bottom:30px;
+}
+
+.heroContent p{
+  color:#f2f2f2;
+  font-size:18px;
+  line-height:1.7;
+  margin-bottom:30px;
+}
+
+.heroContent button{
+  border:none;
+  background:black;
+  color:white;
+
+  padding:15px 30px;
+  cursor:pointer;
+  letter-spacing:2px;
+}
+
+.heroContent button:hover{
+  background:#775a19;
+}
+
+@media(max-width:768px){
+
+.heroContent{
+width:85%;
+margin:auto;
+padding:30px;
+}
+
+.heroContent h1{
+font-size:45px;
+}
+
+}
+
+.mainContent{
+  color: black;
+  font-size: 3rem;
+} */
